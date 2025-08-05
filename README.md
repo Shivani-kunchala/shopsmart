@@ -51,3 +51,26 @@ Before installing, ensure you have the following:
 ```bash
 git clone https://github.com/your-username/shopsmart.git
 cd shopsmart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
